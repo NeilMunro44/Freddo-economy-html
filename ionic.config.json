@@ -1,4 +1,6 @@
 {
-  "name": "my-ionic-app",
-  "type": "angular",
-  "integrations": {
+  "appId": "com.yourapp.identifier",
+  "appName": "Your App Name",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
