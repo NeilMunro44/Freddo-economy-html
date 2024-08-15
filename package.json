@@ -1,0 +1,30 @@
+{
+  "name": "Freddo-Calcultor",
+  "version": "1.2.0",
+  "description": "A simple Ionic app built with HTML, CSS, and JavaScript",
+  "scripts": {
+    "start": "ionic serve",
+    "build": "ionic build",
+    "test": "ionic test"
+  },
+  "dependencies": {
+    "@ionic/angular": "^5.5.0",
+    "zone.js": "~0.11.4",
+    "rxjs": "~6.6.7",
+    "core-js": "^3.6.5"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.1102.0",
+    "@angular/cli": "~11.2.0",
+    "@angular/compiler": "~11.2.0",
+    "@angular/compiler-cli": "~11.2.0",
+    "@ionic/angular-toolkit": "^3.1.1",
+    "typescript": "~4.1.5"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
