@@ -4,8 +4,11 @@
   "description": "An Ionic app to calculate the number of Freddos you can buy with a certain amount of money.",
 
   "scripts": {
-  "postinstall": "npm install --legacy-peer-deps"
-},
+    "start": "ionic serve",
+    "build": "ionic build",
+    "test": "ionic test",
+    "lint": "ng lint"
+  },
   
 "dependencies": {
   "@angular/common": "16.2.12",
