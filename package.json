@@ -2,9 +2,11 @@
   "name": "my-ionic-app",
   "version": "1.0.0",
   "description": "An Ionic app to calculate the number of Freddos you can buy with a certain amount of money.",
+
   "scripts": {
   "postinstall": "npm install --legacy-peer-deps"
 },
+  
 "dependencies": {
   "@angular/common": "16.2.12",
   "@angular/core": "16.2.12",
@@ -15,6 +17,7 @@
   "rxjs": "^7.5.0",
   "zone.js": "~0.13.0"
 },
+  
 "devDependencies": {
   "@angular/compiler": "16.2.12",
   "@angular/compiler-cli": "16.2.12",
@@ -24,10 +27,12 @@
   "@ionic/angular-toolkit": "^7.0.0",
   "typescript": "~4.9.0"
 },
+  
   "engines": {
     "node": ">=14.0.0",
     "npm": ">=6.0.0"
   },
+  
   "author": "Your Name",
   "license": "MIT"
 }
