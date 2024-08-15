@@ -1,18 +1,6 @@
 {
-  "appId": "my-iconic-ap",
-  "appName": "MyIonicApp",
+  "appId": "com.yourapp.identifier",
+  "appName": "Your App Name",
   "webDir": "www",
-  "bundledWebRuntime": false,
-  "android": {
-    "allowMixedContent": true,
-    "backgroundColor": "#FFFFFF"
-  },
-  "ios": {
-    "contentInset": "always",
-    "cordovaLinkerFlags": ["-ObjC"]
-  },
-  "server": {
-    "url": "http://localhost:8100",
-    "cleartext": true
-  }
+  "bundledWebRuntime": false
 }
