@@ -1,6 +1,7 @@
 {
-  "appId": "com.yourapp.identifier",
-  "appName": "Your App Name",
-  "webDir": "www",
-  "bundledWebRuntime": false
+  "name": "my-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
 }
